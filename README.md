@@ -1,5 +1,5 @@
 # flutter_run_util
-To prevent a Future call many times in same time.
+To prevent a Future call many times in same time in flutter.
 
 ```dart
 RunUtil.run(() async {
